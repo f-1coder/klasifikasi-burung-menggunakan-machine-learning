@@ -1,0 +1,5 @@
+numpy
+Pillow
+streamlit
+Keras==2.8.0
+tensorflow==2.8.0
